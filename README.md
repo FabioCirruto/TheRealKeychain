@@ -12,3 +12,5 @@ Use the function TheRealKeychain.saveCustomKey("yourKeyName", "yourKeyValue") fo
 The function TheRealKeychain.load("yourKeyName") return nil or the value of the key
 
 The function TheRealKeychain.delete("yourKeyName") delete key on the keychain if exist
+
+For info or support follow me on Linkedin https://www.linkedin.com/in/fabio-cirruto/
